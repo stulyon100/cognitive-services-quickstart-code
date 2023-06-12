@@ -13,6 +13,9 @@ using System.Threading.Tasks;
 
 namespace FormRecognizerQuickStart
 {
+    /// <summary>
+    /// test
+    /// </summary>
     class Program
     {
         // <snippet_variables>
